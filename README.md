@@ -10,7 +10,7 @@ WIRING:
 . Pico Pin 40 to Ublox GPS VCC 
 
 
-A pngfile shows how the code is organized. Put the index.html file inside templates folder and put the control.js file inside the static folder.
+A code organization.png file shows how the code is organized. Put the index.html file inside templates folder and put the control.js file inside the static folder.
 
 Support my work via Bitcoin donation: bc1qrxl9f0vjue2r6ckujh8qv05j2cqt343muszwgf
 
