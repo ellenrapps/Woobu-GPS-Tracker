@@ -1,5 +1,5 @@
 # Woobu-GPS-Tracker
-Woobu GPS Tracker finds your current location latitude and longitude using Raspberry Pi Pico, Ublox Neo-6m GPS and your smartphone.
+Woobu GPS Tracker finds your current location latitude and longitude using Raspberry Pi Pico, Ublox Neo-6m GPS and your smartphone even without an internet connection.
 
 WIRING:
 
