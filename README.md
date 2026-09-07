@@ -11,10 +11,3 @@ WIRING:
 
 
 A code organization.png file shows how the code is organized. Put the index.html file inside templates folder and put the control.js file inside the static folder.
-
-Support my work via:
-
-GitHub Sponsors: https://github.com/sponsors/ellenrapps
-
-Bitcoin donation: bc1qcnalqpnjdcpkl2dcv7qqug334h8hjlhw5g77gu
-
